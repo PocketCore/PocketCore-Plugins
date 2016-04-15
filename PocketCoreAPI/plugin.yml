@@ -1,0 +1,8 @@
+name: PocketCoreAPI
+author: PocketCoreTeam
+authors:
+- 'Primus'
+- 'HotFireyDeath'
+version: '0.0.1#InDev_b0'
+main: pocketcore\PocketCore
+api: [1.13.0, 1.0.0, 2.0.0]
